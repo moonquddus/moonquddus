@@ -1,0 +1,6 @@
+# robots.txt for http://www.moonquddus.com/
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /contact.php
+Disallow: /error_log
